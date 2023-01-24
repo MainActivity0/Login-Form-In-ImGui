@@ -3,4 +3,4 @@
 
 -------------------
 
-login.php закидываете на хостин. Подключаете в main/scr/main/Java/com/android/supportMainActivity.java этот файл и кайфуете! ヾ(＠⌒ー⌒＠)ノ
+login.php закидываете на хостин. Подключаете в main/scr/main/Java/com/android/supportMainActivity.java этот файл и кайфуете!
